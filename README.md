@@ -95,3 +95,6 @@ Follow these steps for completing your project.
 - [ ] Submit a pull request to merge `<firstName-lastName>` branch into the `main` branch (student's repo). **Please don't merge your own pull request**
 - [ ] Add your team lead as a reviewer on the pull request
 - [ ] Your team lead will count the project as complete after receiving your pull request
+
+
+<!-- I still need to flex this unit. I sent in a second frontdesk ticket about it. Not sure how much help I will be durring build week either. -->
